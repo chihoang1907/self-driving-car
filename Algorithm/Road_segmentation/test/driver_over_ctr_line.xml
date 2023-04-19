@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>driver_over_ctr_line.jpg</filename>
+	<path>D:\hoc\DATN\self-driving-car\Algorithm\Road_segmentation\test\driver_over_ctr_line.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>424</ymin>
+			<xmax>704</xmax>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

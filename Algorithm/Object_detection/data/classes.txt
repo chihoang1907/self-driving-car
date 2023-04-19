@@ -1,0 +1,7 @@
+bicycle
+bus
+car
+motorbike
+person
+trafficlight
+trafficsignal
